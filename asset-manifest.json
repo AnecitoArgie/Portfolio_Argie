@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Argie/static/css/main.5d3f73ca.css",
-    "main.js": "/Portfolio_Argie/static/js/main.385ed85e.js",
+    "main.js": "/Portfolio_Argie/static/js/main.59a2b2ee.js",
     "static/media/about.jpg": "/Portfolio_Argie/static/media/about.e4a3d013dae5b1074868.jpg",
     "static/media/port1.png": "/Portfolio_Argie/static/media/port1.0e1587230ffffeb8da2c.png",
     "static/media/1.png": "/Portfolio_Argie/static/media/1.24e1a68253f87dcd953a.png",
@@ -13,10 +13,10 @@
     "static/media/ui-design.png": "/Portfolio_Argie/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "index.html": "/Portfolio_Argie/index.html",
     "main.5d3f73ca.css.map": "/Portfolio_Argie/static/css/main.5d3f73ca.css.map",
-    "main.385ed85e.js.map": "/Portfolio_Argie/static/js/main.385ed85e.js.map"
+    "main.59a2b2ee.js.map": "/Portfolio_Argie/static/js/main.59a2b2ee.js.map"
   },
   "entrypoints": [
     "static/css/main.5d3f73ca.css",
-    "static/js/main.385ed85e.js"
+    "static/js/main.59a2b2ee.js"
   ]
 }
