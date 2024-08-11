@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio_Argie/static/css/main.157d8e01.css",
-    "main.js": "/Portfolio_Argie/static/js/main.7c72142d.js",
+    "main.js": "/Portfolio_Argie/static/js/main.37dabb31.js",
     "static/media/p5.png": "/Portfolio_Argie/static/media/p5.1aac212cf72da007c556.png",
     "static/media/about.jpg": "/Portfolio_Argie/static/media/about.e4a3d013dae5b1074868.jpg",
     "static/media/p6.png": "/Portfolio_Argie/static/media/p6.69de15bd5a78ef3892cb.png",
-    "static/media/port1.png": "/Portfolio_Argie/static/media/port1.0e1587230ffffeb8da2c.png",
     "static/media/1.png": "/Portfolio_Argie/static/media/1.24e1a68253f87dcd953a.png",
     "static/media/port3.png": "/Portfolio_Argie/static/media/port3.a216e6ed81b7bac1fcf1.png",
     "static/media/ecommerce.png": "/Portfolio_Argie/static/media/ecommerce.52b3e0c2b7345933ed0c.png",
@@ -16,10 +15,10 @@
     "static/media/ui-design.png": "/Portfolio_Argie/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "index.html": "/Portfolio_Argie/index.html",
     "main.157d8e01.css.map": "/Portfolio_Argie/static/css/main.157d8e01.css.map",
-    "main.7c72142d.js.map": "/Portfolio_Argie/static/js/main.7c72142d.js.map"
+    "main.37dabb31.js.map": "/Portfolio_Argie/static/js/main.37dabb31.js.map"
   },
   "entrypoints": [
     "static/css/main.157d8e01.css",
-    "static/js/main.7c72142d.js"
+    "static/js/main.37dabb31.js"
   ]
 }
